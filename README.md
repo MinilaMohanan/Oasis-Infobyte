@@ -7,4 +7,4 @@ During the COVID-19 pandemic, unemployment rates surged. 📈 Explore the unempl
 Task 2: 📧 Email Spam Detector
 Ever been bothered by spam emails? 📧 Let's tackle the issue with Python! Build a spam email detector using machine learning to differentiate between spam and genuine emails. 🛡️
 
-Excited to delve deeper into the world of data science and make a positive impact! 💡🚀 #DataScience #MachineLearning #DataAnalysis #OasisInfobyte 🎓✨
+Excited to delve deeper into the world of data science and make a positive impact! 💡🚀 #datascience #MachineLearning #DataAnalysis #oasisinfobyte 🎓✨
